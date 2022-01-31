@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/freetogame-main/static/css/main.76611338.chunk.css",
+    "main.js": "/freetogame-main/static/js/main.06ec9895.chunk.js",
+    "main.js.map": "/freetogame-main/static/js/main.06ec9895.chunk.js.map",
+    "runtime-main.js": "/freetogame-main/static/js/runtime-main.d2b50063.js",
+    "runtime-main.js.map": "/freetogame-main/static/js/runtime-main.d2b50063.js.map",
+    "static/js/2.5b2761f9.chunk.js": "/freetogame-main/static/js/2.5b2761f9.chunk.js",
+    "static/js/2.5b2761f9.chunk.js.map": "/freetogame-main/static/js/2.5b2761f9.chunk.js.map",
+    "index.html": "/freetogame-main/index.html",
+    "static/css/main.76611338.chunk.css.map": "/freetogame-main/static/css/main.76611338.chunk.css.map",
+    "static/js/2.5b2761f9.chunk.js.LICENSE.txt": "/freetogame-main/static/js/2.5b2761f9.chunk.js.LICENSE.txt",
+    "static/media/favorite-fill.bc162d09.svg": "/freetogame-main/static/media/favorite-fill.bc162d09.svg",
+    "static/media/favorite.82769289.svg": "/freetogame-main/static/media/favorite.82769289.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2b50063.js",
+    "static/js/2.5b2761f9.chunk.js",
+    "static/css/main.76611338.chunk.css",
+    "static/js/main.06ec9895.chunk.js"
+  ]
+}
